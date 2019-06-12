@@ -1,0 +1,42 @@
+h1 {
+  font-family: 'Amatic SC', cursive;
+  color: red;
+  font-size: 80px;
+  display:flex;
+  justify-content: center;
+}
+
+body{
+  background-color: turquoise;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo{
+  width: 500px;
+  height: 50px;
+  border: solid 10px;
+  border-color: blue;
+}
+
+.day{
+  width: 500px;
+  height: 50px;
+  border: solid 10px;
+  border-color: blue;
+}
+
+.time{
+  width: 500px;
+  height: 50px;
+  border: solid 10px;
+  border-color: blue;
+}
+
+.submit-btn{
+  width : 400px;
+  height: 40px;
+  border-color: blue;
+  border: 5px;
+}
